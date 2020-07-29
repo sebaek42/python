@@ -6,7 +6,7 @@
 
 <br>터미널에서 which python3 를 입력하면 python3가 위치한 경로가 나옴. 해당 경로를 vscode의 setting.json 마지막줄에 추가해준다. setting.json은 아래 사진과 같이 들어가서 나오는 화면의 우측 상단의 아이콘을 클릭하면 볼수있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/601b7e32-1c66-4dfa-8dee-92ab79364285/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/601b7e32-1c66-4dfa-8dee-92ab79364285/Untitled.png)
+![](https://github.com/sebaek42/python_begin/blob/master/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-07-29%20%EC%98%A4%EC%A0%84%2010.21.41.png?raw=true)
 
 `"python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"`
 
